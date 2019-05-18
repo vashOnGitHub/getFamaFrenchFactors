@@ -1,6 +1,6 @@
 # getFamaFrenchFactors
 
-This programme gets data for fame french factors from the Kenneth French library and returns it as a pandas dataframe.
+This programme gets data for Fama French factors from the Kenneth French library and returns it as a Pandas dataframe.
 
 ## Installation
 
@@ -11,7 +11,7 @@ pip install getFamaFrenchFactors
 ```
 
 ## Usage
-Factors can be extracted in monthly ('m') and annual ('a') frequencies. The default is monthly.
+Factors can be extracted in monthly ('m') and annual ('a') frequencies. **The default frequency is monthly.**
 
 ```python
 import getFamaFrenchFactors as gff
