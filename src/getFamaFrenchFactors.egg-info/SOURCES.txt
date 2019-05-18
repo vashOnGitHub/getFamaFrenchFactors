@@ -1,0 +1,9 @@
+README.md
+setup.py
+src/getFamaFrenchFactors.py
+src/getFamaFrenchFactors.egg-info/PKG-INFO
+src/getFamaFrenchFactors.egg-info/SOURCES.txt
+src/getFamaFrenchFactors.egg-info/dependency_links.txt
+src/getFamaFrenchFactors.egg-info/not-zip-safe
+src/getFamaFrenchFactors.egg-info/requires.txt
+src/getFamaFrenchFactors.egg-info/top_level.txt
