@@ -28,3 +28,22 @@ Other options:
 * Momentum factor: momentumFactor()
 * Carhart 4 factor: carhart4Factor()
 * Fama French 5 factor: famaFrench5Factor()
+
+## Specifics of factors
+The Fama French 3 factor model includes the:
+* Market Risk Premium (MRP)
+* Size Premium (i.e., Small minus Big) (SMB)
+* Value Premium (i.e., High Book-to-Market minus Low Book-to-Market)
+* The Risk-free rate (RF)
+
+The Momentum factor returns the momentum factor only, as "MOM"
+
+The Carhart 4 factor returns Fama French 3 Factor and Momentum.
+
+The Fama French 5 factor returns:
+* Market Risk Premium (MRP)
+* Size Premium (i.e., Small minus Big) (SMB)
+* Value Premium (i.e., High Book-to-Market minus Low Book-to-Market)
+* Operating Profitability (i.e. Robust minus Weak) (RMW)
+* Conservative minus Aggressive Investments (CMA)
+* The Risk-free rate (RF)
